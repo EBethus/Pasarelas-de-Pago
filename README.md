@@ -14,4 +14,4 @@ Inicialmente se apelará a lo compacto y conciso, a medida de que vaya creciendo
 
 ---
 
-**Nota:** Por si acaso necesitas una guia sobre formatear en este documento: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+**Nota:** Por si acaso necesitas una guia sobre cómo formatear texto en este documento: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
